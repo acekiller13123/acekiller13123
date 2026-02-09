@@ -13,19 +13,31 @@
 
 ## 🌟 About Me
 
-I am a **B.Tech Electrical Engineering undergraduate at RGIPT** with a strong interest in  
-**Artificial Intelligence, Full-Stack Development, IoT, and Blockchain systems**.
+I am a **B.Tech Electrical Engineering undergraduate at RGIPT (CPI: 8.84*/10)** with a strong interest in  
+**Artificial Intelligence, Full-Stack Development, Machine Learning, IoT, Blockchain, and Data Visualization**.
 
 I enjoy building **end-to-end products** — from intelligent backend logic to interactive user interfaces —  
 with a focus on **real-world impact, performance, and clean system design**.
+
+My background in **electrical engineering** helps me think beyond software, enabling me to work comfortably at the intersection of **code, data, and real-world systems**.
 
 ---
 
 ## 🔬 What I’m Currently Working On
 - AI-powered web applications using **Flask & React**
-- Machine Learning pipelines & AutoML platforms
-- Smart IoT + Blockchain integrated systems
-- Strengthening DSA & backend system design
+- Machine Learning pipelines, AutoML platforms & data-driven systems
+- **Blockchain-backed architectures** for secure and scalable applications
+- **IoT-based systems** using ESP32 & Arduino for smart monitoring
+- Strengthening **DSA in C++** and backend system design fundamentals
+
+---
+
+## 🎯 Core Interests & Focus Areas
+- **Backend & Full-Stack Web Development**
+- **Machine Learning & Data Visualization**
+- **DSA & Competitive Programming (C++)**
+- **IoT systems (ESP32, Arduino)**
+- **Blockchain-based application design**
 
 ---
 
@@ -49,17 +61,19 @@ with a focus on **real-world impact, performance, and clean system design**.
 
 ### 🛡 Smart Tourist Safety System (SIH)
 **Tech:** AI, Blockchain, ESP32, Flutter, React  
-- Multi-module safety platform with anomaly detection & IoT wearables
+- Multi-module safety platform integrating **blockchain IDs**, AI anomaly detection & IoT wearables
 - Geo-fencing, SOS alerts & multilingual mobile app
-- ESP32 smart band with health + motion sensors
+- ESP32 smart band with health + motion sensors connected to real-time dashboard
+
+> This project marked the start of my **blockchain journey**, where I explored how decentralized identity and secure data flow can be applied to real-world safety systems.
 
 ---
 
 ### 🌌 Indian Astronomical Instruments Calculator
 **Tech:** React, Three.js, Tailwind CSS  
 - Interactive 2D & 3D visualization of traditional instruments
-- Real-time astronomical calculations based on location
-- Responsive and theme-adaptive UI
+- Real-time astronomical calculations based on geographic coordinates
+- Demonstrates my interest in **data visualization + scientific computing**
 
 ---
 
@@ -77,11 +91,13 @@ with a focus on **real-world impact, performance, and clean system design**.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 
-### 📊 ML & Data
+### 📊 ML, IoT & Data
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
 
 ### 🔧 Databases & Dev Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
@@ -91,10 +107,18 @@ with a focus on **real-world impact, performance, and clean system design**.
 
 ---
 
+## 🧠 Competitive Programming
+- Practicing **DSA in C++**
+- Active on **Codeforces**
+
+![Codeforces](https://img.shields.io/badge/Codeforces-Pupil-1f8acb?style=for-the-badge&logo=codeforces)
+
+---
+
 ## 🏆 Achievements & Leadership
 - Joint Secretary — **IEEE RGIPT Student Branch**
 - Event Management Executive — **RGIPT Sports Council**
-- Built multiple hackathon-grade AI & system projects
+- Built multiple hackathon-grade AI, ML, IoT & blockchain-integrated systems
 
 ---
 
@@ -116,4 +140,4 @@ with a focus on **real-world impact, performance, and clean system design**.
 
 ---
 
-⚡ *“I believe the best systems are built where intelligence meets clean engineering.”*
+⚡ *“I believe the best systems are built where intelligence, data, and engineering meet.”*
