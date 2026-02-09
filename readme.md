@@ -101,17 +101,17 @@ with a focus on **real-world impact, performance, and clean system design**.
 ## 🤝 Let’s Connect
 - 📧 Email: **anagh.smn@gmail.com**
 - 💼 LinkedIn: [Anagh Krishna Singh](https://www.linkedin.com/in/anagh-krishna-singh-79b45a323/)
-- 🧑‍💻 GitHub: **@anaghkrishnasingh_123**
+- 🧑‍💻 GitHub: **@acekiller13123**
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anaghkrishnasingh_123&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=acekiller13123&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anaghkrishnasingh_123&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=acekiller13123&theme=tokyonight"/>
 </p>
 
 ---
