@@ -31,6 +31,14 @@ My background in **electrical engineering** helps me think beyond software, enab
 - Strengthening **DSA in C++** and backend system design fundamentals
 
 ---
+---
+
+## 📚 Currently Learning & Exploring
+- **Blockchain Development** — Smart contracts using **Solidity**, understanding on-chain logic, and Web3 integrations
+- **Machine Learning** — Model training, evaluation, and real-world deployment pipelines
+- **DSA in C++** — Strengthening problem-solving skills for competitive programming and interviews
+- **Real-World IoT Projects** — Sensor-driven systems using **ESP32 & Arduino**, focusing on data collection, monitoring, and intelligent decision-making
+
 
 ## 🎯 Core Interests & Focus Areas
 - **Backend & Full-Stack Web Development**
@@ -40,6 +48,13 @@ My background in **electrical engineering** helps me think beyond software, enab
 - **Blockchain-based application design**
 
 ---
+---
+
+## 🧩 Looking For Help With
+- **V2V (Vehicle-to-Vehicle) Communication Systems**
+- **AI in Robotics** — perception, decision-making, and autonomous behavior
+- **Blockchain + IoT Integration** — secure device identity, trusted data exchange, and decentralized system design
+
 
 ## 🚀 Featured Projects
 
@@ -82,28 +97,65 @@ My background in **electrical engineering** helps me think beyond software, enab
 ### 🧠 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)### 👨‍💻 Programming & Scripting Languages
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-### 🌐 Frameworks & Tools
+### 🌐 Web, Backend & App Development
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 
-### 📊 ML, IoT & Data
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+
+### 📊 AI, ML, IoT & Data Science
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
 
-### 🔧 Databases & Dev Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+### 🗄 Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+
+### ⚙️ DevOps, Tools & Platforms
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+
+
+
+### 🎮 Graphics, Visualization & Engines
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge)
+---
+
+### 🎨 Design & Collaboration
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
 
 ---
 
@@ -139,5 +191,13 @@ My background in **electrical engineering** helps me think beyond software, enab
 </p>
 
 ---
+---
 
-⚡ *“I believe the best systems are built where intelligence, data, and engineering meet.”*
+## 🧠 Quote That Drives Me
+> *“Dream in code. Build with purpose. Learn relentlessly.”*
+
+---
+
+## ⚡ Fun Fact
+💡 I believe the best ideas emerge when **software intelligence meets real-world systems**, and I enjoy building solutions that bridge **code, data, and engineering**.
+
